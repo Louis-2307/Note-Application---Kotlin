@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="title">Note Application</string>
+    <string name="activity">Enter Activity :</string>
+    <string name="setting">Setting</string>
+    <string name="status">Status :</string>
+    <string name="pending">Pending</string>
+    <string name="finish">Finish</string>
+    <string name="plan">Plan</string>
+    <string name="save">Save Activity</string>
+    <string name="schedule">Schedule Your Plan</string>
+    <string name="name">Enter Name</string>
+    <string name="savepage2">Save Time</string>
+    <string name="activities">Recorded Activities</string>
+    <string name="removelast">Remove</string>
+    <string name="reset">Reset</string>
+    <string name="back">BACK</string>
+    <string name="description">Description: This application will help to record all activities that happen daily. Please set date and time for your specific event  </string>
+    <string name="typeofactivity">Type Of Activity :</string>
+    <string name="type">TYPE</string>
+    <string name="activity3">ACTIVITY</string>
+    <string name="date">DATE/TIME</string>
+    <string name="STATE">STATE</string>
+    <string name="checkactivity">VIEW</string>
+    <string-array name="eventList">
+        <item>Physical - Outside</item>
+        <item>Physical - Inside</item>
+        <item>Journey</item>
+        <item>Memo</item>
+        <item>Health</item>
+        <item>Education</item>
+        <item>Social</item>
+        <item>Technology</item>
+        <item></item>
+    </string-array>
+
+</resources>
